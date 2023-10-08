@@ -1,4 +1,4 @@
-# python_env_setup
+# python_env_setup in Windows
 
 # 1. install python interpreter
 open `Windows PowerShell`, type in `python`. If python is not installed, Windows will redirect you to the Miscrosoft Store to install.
